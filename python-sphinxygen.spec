@@ -9,6 +9,7 @@ Group:	Development/Python
 Url:		https://gitlab.com/drobilla/sphinxygen
 Source0:	https://files.pythonhosted.org/packages/94/9f/f773d81507df80867e674653adbde56087b75e90d0453ef22f02fb25d725/%{pyname}-%{version}.tar.gz
 BuildRequires:		python
+BuildRequires:		python-pip
 BuildRequires:		python-pyproject-api
 BuildRequires:		python-setuptools
 BuildRequires:		python-setuptools_scm
